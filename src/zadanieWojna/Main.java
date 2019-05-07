@@ -24,5 +24,7 @@ public class Main {
         return rc;
     }
 
-    //todo pintDeck - iteracja po decku i wysw. warosci karty.
+    public void printDeck() {
+        System.out.println("print");
+    }
 }
